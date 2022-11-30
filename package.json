@@ -1,0 +1,28 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "NestJS microservices example for IPR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temaqwest/nest_microservices_example.git"
+  },
+  "keywords": [
+    "nestjs",
+    "js",
+    "microservices",
+    "microservice",
+    "api",
+    "apigateway",
+    "api-gateway"
+  ],
+  "author": "Artem Tatevosyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temaqwest/nest_microservices_example/issues"
+  },
+  "homepage": "https://github.com/temaqwest/nest_microservices_example#readme"
+}
