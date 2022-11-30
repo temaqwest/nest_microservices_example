@@ -5,7 +5,12 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/user-service/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/module-service/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/inspectionProfiles" />
     </content>
+    <content url="file://$MODULE_DIR$/module-service/node_modules" />
+    <content url="file://$MODULE_DIR$/user-service/node_modules" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
