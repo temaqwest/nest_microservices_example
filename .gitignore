@@ -4,3 +4,7 @@
 /node_modules
 /user-service/node_modules
 /module-service/node_modules
+/api-gateway/node_modules
+/user-service/dist
+/module-service/dist
+/api-gateway/dist
